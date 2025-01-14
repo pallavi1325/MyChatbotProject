@@ -1,4 +1,4 @@
-# Zeotap Chatbot Assignment
+# MyChatbotProject
 
 This project is a chatbot application designed to provide information about various Customer Data Platforms (CDPs) like Segment, mParticle, Lytics, and Zeotap. It includes a Node.js backend and a simple front-end built with HTML, CSS, and JavaScript.
 
@@ -15,4 +15,4 @@ This project is a chatbot application designed to provide information about vari
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zeotap-assignment.git
+   git clone https://github.com/your-username/MyChatbotProject.git
