@@ -1,0 +1,26 @@
+[
+    {
+        "question": "How do I set up a new source in Segment?",
+        "answer": "To set up a new source in Segment, navigate to the 'Sources' section and click 'Add Source'. Follow the steps to integrate your source."
+    },
+    {
+        "question": "How can I create a user profile in mParticle?",
+        "answer": "To create a user profile in mParticle, go to the 'Profiles' section, click 'Create Profile', and enter the necessary details."
+    },
+    {
+        "question": "How do I build an audience segment in Lytics?",
+        "answer": "In Lytics, navigate to the 'Audiences' section, click 'Create Audience', and define your segmentation rules."
+    },
+    {
+        "question": "How can I integrate my data with Zeotap?",
+        "answer": "To integrate your data with Zeotap, go to the 'Data Integration' section and follow the steps to connect your data sources."
+    },
+    {
+        "question": "How does Segment's audience creation process compare to Lytics'?",
+        "answer": "Segment's audience creation process is simple, involving setting up a source and defining a segment using predefined attributes. Lytics, on the other hand, offers more flexibility in terms of audience segmentation, allowing deeper user behavior tracking and segmentation based on data collected from multiple sources."
+    },
+    {
+        "question": "How does mParticle's data integration compare to Zeotap's?",
+        "answer": "mParticle provides a unified customer data platform with a focus on data integration across various touchpoints. Zeotap, on the other hand, specializes in data enrichment and provides more advanced analytics features for improving customer targeting."
+    }
+]
